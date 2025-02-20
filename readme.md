@@ -15,7 +15,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
    
     ```bash
-    git clone https://github.com/yourusername/plutonium-name-checker.git
+    git clone https://github.com/Yallamaztar/plutonium-name-checker.git
     cd plutonium-name-checker
     ```
 
